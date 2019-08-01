@@ -1,0 +1,3 @@
+Changelog Paulicraft Soundpack
+- Lautstärke der Dorfbewohner und Eisengolem Sounds angepasst (reduziert)
+- Dora Rucksack "Mjam, Mjam, Mjam, delicious" als Esssen Sounds hinzugefügt und Lautstärke angepasst (reduziert)
